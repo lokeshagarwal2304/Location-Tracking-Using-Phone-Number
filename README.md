@@ -44,16 +44,16 @@ $ python app.py
 ### 📤 Request: `/track_number`
 ```json
 {
-  "phone_number": "+1234567890"
+  "phone_number": "+91 9154151265"
 }
 ```
 ### 📥 Response:
 ```json
 {
-  "location": "New York, USA",
+  "location": "Hyd, India",
   "service_provider": "Verizon",
-  "latitude": 40.7128,
-  "longitude": -74.0060
+  "latitude": 12.7128,
+  "longitude": 78.0060
 }
 ```
 
@@ -70,7 +70,7 @@ $ python app.py
 🔹 Cloud Deployment – Host on AWS/GCP for public access.
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License and Used python .gitignore .
 
 ## 🤝 Contributing
 Contributions are welcome! 🎉
@@ -78,7 +78,7 @@ Contributions are welcome! 🎉
 - Create a new branch 🔀
 - Make improvements 🔧
 - Submit a pull request ✨
-
+- I'm fast and ready to collab,so Please Support 
 ## 📬 Contact
 📧 Email: lokeshagarwal2304@gmail.com
 💼 LinkedIn: lokeshagarwal2304
