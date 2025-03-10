@@ -17,14 +17,14 @@
 ## 🚀 Installation & Usage
 1️⃣ **Clone the Repository**
 ```bash
-$ git clone https://github.com/your-username/phone-tracker.git
-$ cd phone-tracker
+$ git clone https://github.com/lokeshagarwal2304/Location-Tracking-Using-Phone-Number.git
+$ cd Location-Tracking-Using-Phone-Number
 ```
 2️⃣ **Install Dependencies**
 ```bash
 $ pip install -r requirements.txt
 ```
-3️⃣ **Set Up API Key**
+3️⃣ **Set Up API Key**(Will be Soon Announced)
 Replace the placeholder OpenCage API key in `app.py` with your actual key:
 ```python
 api_key = "your_opencage_api_key_here"
