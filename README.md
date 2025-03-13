@@ -27,7 +27,7 @@ $ pip install -r requirements.txt
 3️⃣ **Set Up API Key**(Will be Soon Announced)
 Replace the placeholder OpenCage API key in `app.py` with your actual key:
 ```python
-api_key = "your_opencage_api_key_here"
+api_key = "8e5f6daaa50f47488ab5bc36b295e7a5"
 ```
 4️⃣ **Run the Application**
 ```bash
